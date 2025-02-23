@@ -1,6 +1,9 @@
 /*
 
-* Por Kayki Ivan:
+* Grupo:
+Kayki Ivan
+Fernanda Sena
+Vinycius Wellinson 
 
 ! Alterações e Adições:
 1. Adicionada a função `setColor` para 
