@@ -2,6 +2,11 @@
 
 A terminal-based clock application that displays the current time with colored hands and hour markers.
 
+## Contributors:
+
+- [Fernando Sena](https://github.com/FernandosenaDev)
+- [Vinycius Wellinson](https://github.com/VINYCIU51)
+
 ## Features
 
 - Displays a clock with hour markers and hands for hours, minutes, and seconds.
